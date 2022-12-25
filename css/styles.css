@@ -1,0 +1,136 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: "Merriweather", sans-serif;
+}
+
+
+p {
+    line-height: 2;
+}
+
+hr {
+    border: dotted lightgray 6px;
+    border-bottom:none;
+    width: 10%;
+    margin: 50px auto;
+}
+
+
+.intro {
+    width:50%;
+    margin:auto;
+}
+
+
+h1 {
+    font-size: 5.625rem;
+    margin-top: 50px auto 0 auto;
+    font-family: "Sacramento", cursive;
+    color: #66BFBF;
+}
+
+
+h2 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+
+h3 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 1.5rem;
+    color: #11999E;
+}
+
+
+.top-container {
+    background-color: #EAFDFC ;
+    position: relative;
+    padding-top: 100px;
+}
+
+
+.profile-pic {
+    width: 15%;
+}
+
+
+.top-cloud {
+    position: absolute;
+    right: 100px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 100px;
+    bottom: 300px;
+}
+
+
+.middle-container {
+    margin:30px auto;
+}
+
+
+.skill-row {
+    width: 50%;
+    padding-top:10px;
+    padding-bottom:10px;
+    margin: auto;
+    text-align: left;
+}
+
+
+.computer-image {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.fruit-image {
+    width: 30%;
+    float: right;
+    margin-left: 30px;
+}
+
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding-top: 10px;
+    padding-bottom: 10px;    
+}
+
+.contact-me {
+    margin: 50px auto;
+}
+
+.contact-message {
+    width: 60%;
+    margin: 40px auto 60px;
+}
+
+.button {
+    font-family: Arial;
+    color: white;
+    font-size: 20px;
+    background: #66BFBF;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    border-radius: 8px;
+  }
+  
+
+.footer-link {
+    color: #11999E;
+    display: inline-block;
+    margin:10px;
+}
+
+
+.copyright {
+    color: #EAF6F6;
+}
